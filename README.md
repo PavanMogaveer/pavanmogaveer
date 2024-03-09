@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Pavan Mogaveer
 💻 I'm currently learning *Full-Stack Web Development*<br>📫 Reach out to me at pavanmogaveer3@gmail.com<br>💻 All of my projects are available on GitHub
 
 
