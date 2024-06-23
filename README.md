@@ -1,4 +1,4 @@
-# <h1>Pavan Mogaveer</h1>
+#        Pavan Mogaveer
 👑 CONQUERING FROM WITHIN<br>💻 I'm currently learning Web-Dev<br>📫 Reach out to me at pavanmogaveer3@gmail.com<br>🐈‍⬛ All of my projects are available on GitHub
 
 
