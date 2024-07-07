@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pavanmogaveer&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pavanmogaveer&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 ---
