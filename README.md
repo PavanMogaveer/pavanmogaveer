@@ -1,6 +1,6 @@
 #        Pavan Mogaveer
 👑 CONQUERING FROM WITHIN<br>
-<a href="https.//pavanmogaveer.vercel.app">🌐 Portfolio </a> <br>💻 Full Stack Developer <br>📫 Reach out to me at pavanmogaveer3@gmail.com<br>🐈‍⬛ All of my projects are available on GitHub
+<a href="https://pavanmogaveer.vercel.app">🌐 Portfolio </a> <br>💻 Full Stack Developer <br>📫 Reach out to me at pavanmogaveer3@gmail.com<br>🐈‍⬛ All of my projects are available on GitHub
 
 
 ## 🌐 Socials:
